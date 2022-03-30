@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @FlameGiant
-- 👀 I’m interested in LOTS of things.
-- 🌱 I’m currently learning Python and Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 I’m @FlameGiant
+- I’m interested in LOTS of things.
+- I’m currently learning Python and Java.
 
 <!---
 FlameGiant/FlameGiant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
